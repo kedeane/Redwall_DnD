@@ -1,7 +1,6 @@
-# Spell List
-## Bard Spells
+# Bard Spells
 
-### Cantrips (0 Level)
+## Cantrips (0 Level)
 - Blade Ward
 - Dancing Lights
 - Friends
@@ -14,7 +13,7 @@
 - True Strike
 - Vicious Mockery
 
-### 1st Level
+## 1st Level
 - Animal Friendship
 - Bane
 - Charm Person
@@ -37,7 +36,7 @@
 - Thunderwave
 - Unseen Servant
 
-### 2nd Level
+## 2nd Level
 - Animal Messenger
 - Blindness/Deafness
 - Calm Emotions
@@ -61,7 +60,7 @@
 - Suggestion
 - Zone o f Truth
 
-### 3rd Level
+## 3rd Level
 - Bestow Curse
 - Clairvoyance
 - Dispel Magic
@@ -79,7 +78,7 @@
 - Stinking Cloud
 - Tongues
 
-### 4th Level
+## 4th Level
 - Compulsion
 - Confusion
 - Dimension Door
@@ -89,7 +88,7 @@
 - Locate Creature
 - Polymorph
 
-### 5th Level
+## 5th Level
 - Animate Objects
 - Awaken
 - Dominate Person
@@ -107,7 +106,7 @@
 - Seeming
 - Teleportation Circle
 
-### 6th Level
+## 6th Level
 - Eyebite
 - Find the Path
 - Guards and Wards
@@ -116,7 +115,7 @@
 - Programmed Illusion
 - True Seeing
 
-### 7th Level
+## 7th Level
 - Etherealness
 - Forcecage
 - Mirage Arcane
@@ -129,14 +128,14 @@
 - Symbol
 - Teleport
 
-### 8th Level
+## 8th Level
 - Dominate Monster
 - Feeblemind
 - Glibness
 - Mind Blank
 - Power Word Stun
 
-### 9th Level
+## 9th Level
 - Foresight
 - Power Word Heal
 - Power Word Kill
