@@ -1,0 +1,241 @@
+# Wizard Spells
+# Cantrips (0 Level)
+- Acid Splash
+- Blade Ward
+- Chill Touch
+- Dancing Lights
+- Fire Bolt
+- Friends
+- Light
+- Mage Hand
+- Mending
+- Message
+- Minor Illusion
+- Poison Spray
+- Prestidigitation
+- Ray of Frost
+- Shocking Grasp
+- True Strike
+
+## 1st Level
+- Alarm
+- Burning Hands
+- Charm Person
+- Chromatic Orb
+- Color Spray
+- Comprehend Languages
+- Detect Magic
+- Disguise Self
+- Expeditious Retreat
+- False Life
+- Feather Fall
+- Find Familiar
+- Fog Cloud
+- Grease
+- Identify
+- Illusory Script
+- Jump
+- Longstrider
+- Mage Armor
+- Magic Missile
+- Protection from
+- Evil and Good
+- Ray of Sickness
+- Shield
+- Silent Image
+- Sleep
+- Tasha’s Hideous Laughter
+- Tenser’s Floating Disk
+- Thunderwave
+- Unseen Servant
+- Witch Bolt 
+
+## 2nd Level
+- Alter Self
+- Arcane Lock
+- Blindness/Deafness
+- Blur
+- Cloud of Daggers
+- Continual Flame
+- Crown of Madness
+- Darkness
+- Darkvision
+- Detect Thoughts
+- Enlarge/Reduce
+- Flaming Sphere
+- Gentle Repose
+- Gust of Wind
+- Hold Person
+- Invisibility
+- Knock
+- Levitate
+- Locate Object
+- Magic Mouth
+- Magic Weapon
+- Melf’s Acid Arrow
+- Mirror Image
+- Misty Step
+- Nystul’s Magic Aura
+- Phantasmal Force
+- Ray of Enfeeblement
+- Rope Trick
+- Scorching Ray
+- See Invisibility
+- Shatter
+- Spider Climb
+- Suggestion
+- Web 
+
+## 3rd Level
+- Animate Dead
+- Bestow Curse
+- Blink
+- Clairvoyance
+- Counterspell
+- Dispel Magic
+- Fear
+- Feign Death
+- Fireball
+- Fly
+- Gaseous Form
+- Glyph o f Warding
+- Haste
+- Hypnotic Pattern
+- Leomund’s Tiny Hut
+- Lightning Bolt
+- Magic Circle
+- Major Image
+- Nondetection
+- Phantom Steed
+- Protection from Energy
+- Remove Curse
+- Sending
+- Sleet Storm
+- Slow
+- Stinking Cloud
+- Tongues
+- Vampiric Touch
+- Water Breathing 
+
+## 4th Level
+- Arcane Eye
+- Banishment
+- Blight
+- Confusion
+- Conjure Minor Elementals
+- Control Water
+- Dimension Door
+- Evard's Black Tentacles
+- Fabricate
+- Fire Shield
+- Greater Invisibility
+- Hallucinatory Terrain
+- Ice Storm
+- Leomund’s Secret Chest
+- Locate Creature
+- Mordenkainen’s
+- Faithful Hound
+- Mordenkainen’s
+- Private Sanctum
+- Otiluke’s Resilient Sphere
+- Phantasmal Killer
+- Polymorph
+- Stone Shape
+- Stoneskin
+- Wall of Fire
+
+## 5th Level
+- Animate Objects
+- Bigby’s Hand
+- CloudkilI
+- Cone of Cold
+- Conjure Elemental
+- Contact Other Plane
+- Creation
+- Dominate Person
+- Dream
+- Geas
+- Hold Monster
+- Legend Lore
+- Mislead
+- Modify Memory
+- Passwall
+- Planar Binding
+- Rary’s Telepathic Bond
+- Scrying
+- Seeming
+- Telekinesis
+- Teleportation Circle
+- Wall of Force
+- Wall of Stone
+
+## 6th Level
+- Arcane Gate
+- Chain Lightning
+- Circle of Death
+- Contingency
+- Create Undead
+- Disintegrate
+- Drawmij’s Instant
+- Summons
+- Eyebite
+- Flesh to Stone
+- Globe of Invulnerability
+- Guards and Wards
+- Magic Jar
+- Mass Suggestion
+- Move Earth
+- Otiluke’s Freezing Sphere
+- Otto’s Irresistible Dance
+- Programmed Illusion
+- Sunbeam
+- True Seeing
+- Wall of Ice
+
+## 7th Level
+- Delayed Blast Fireball
+- Etherealness
+- Finger of Death
+- Forcecage
+- Mirage Arcane
+- Mordenkainen's
+- Magnificent Mansion
+- Mordenkainen’s Sword
+- Plane Shift
+- Prismatic Spray
+- Project Image
+- Reverse Gravity
+- Sequester
+- Simulacrum
+- Symbol
+- Teleport
+
+## 8th Level
+- Antimagic Field
+- Antipathy/Sympathy
+- Clone
+- Control Weather
+- Demiplane
+- Dominate Monster
+- Feeblemind
+- Incendiary Cloud
+- Maze
+- Mind Blank
+- Power Word Stun
+- Sunburst
+- Telepathy
+- Trap the Soul
+
+## 9th Level
+- Astral Projection
+- Foresight
+- Gate
+- Imprisonment
+- Meteor Swarm
+- Power Word Kill
+- Prismatic Wall
+- Shapechange
+- Time Stop
+- True Polymorph
+- Weird
+- Wish
