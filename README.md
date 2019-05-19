@@ -13,6 +13,7 @@ There will be both contents in the repository for detailed information—such as
 - *Otter*
 - *Shrew*
 - *Squirrel*
+- *Vole*
 
 ## Preliminary classes:
 - *Barbarian* - was living as a loner in the wild, strong and self-sufficient
@@ -29,8 +30,9 @@ There will be both contents in the repository for detailed information—such as
 ## Monster Manual Add-in
 - no magical creatures
 - *Crow*, *songbird*, *hawk*, *owl*, *sparra* 
-- *eel*,*pike* 
+- *eel*, *pike* 
 - *toads*, *snake*, *lizards*
 - *crabs*
-- *rat*, *stout*, *ferret*, *marton*
-- *wildcat*, *fox*
+- *rat*, *stout*, *ferret*, *marton*, *ermine*, *weasels*, *werrets*
+- *wildcat*, *fox*, *wolverine*
+- *rabbits* (always pacifists)
