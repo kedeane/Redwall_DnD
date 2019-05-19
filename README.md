@@ -11,10 +11,8 @@ There will be both contents in the repository for detailed information—such as
 - *Mole*
 - *Mouse*
 - *Otter*
-- *Rat*
 - *Shrew*
 - *Squirrel*
-- *Crow*, *songbird*, *hawk*, *frog*, *lizard*, *snake* ???
 
 ## Preliminary classes:
 - *Barbarian* - was living as a loner in the wild, strong and self-sufficient
@@ -27,3 +25,12 @@ There will be both contents in the repository for detailed information—such as
 - *Rogue* - most enemies are rogues of course
 - *Seer* - weak but with divination magic
 - *Warlock* - must choose school of magic, fairly week (encompases sorcerer and wizard class)
+
+## Monster Manual Add-in
+- no magical creatures
+- *Crow*, *songbird*, *hawk*, *owl*, *sparra* 
+- *eel*,*pike* 
+- *toads*, *snake*, *lizards*
+- *crabs*
+- *rat*, *stout*, *ferret*, *marton*
+- *wildcat*, *fox*
