@@ -32,6 +32,7 @@ There will be both contents in the repository for detailed information—such as
 - *Crow*, *songbird*, *hawk*, *owl*, *sparra* 
 - *eel*, *pike* 
 - *toads*, *snake*, *lizards*
+- *pygmy shrews* often allied with *sand lizards*
 - *crabs*
 - *rat*, *stout*, *ferret*, *marton*, *ermine*, *weasels*, *werrets*
 - *wildcat*, *fox*, *wolverine*
