@@ -36,3 +36,4 @@ There will be both contents in the repository for detailed information—such as
 - *rat*, *stout*, *ferret*, *marton*, *ermine*, *weasels*, *werrets*
 - *wildcat*, *fox*, *wolverine*
 - *rabbits* (always pacifists)
+- *seals* (can understand language but don't really respond)
