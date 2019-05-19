@@ -1,118 +1,118 @@
-## Race
-# Ability Scores
-# Racial Abilities
-# Paired Classes
-# Alignment tendencies
+# Race
+## Ability Scores
+## Racial Abilities
+## Paired Classes
+## Alignment tendencies
 
 
-## Mice
-# Ability Scores
+# Mice
+## Ability Scores
 - each ability score +1
 
-# Racial Abilities
+## Racial Abilities
 - extra feat
 
-# Paired Classes
+## Paired Classes
  - All good aligned
  
-# Alignment tendencies
+## Alignment tendencies
  - good
  
  
-## Squirrel (Border or Mossflower)
-# Ability Scores
+# Squirrel (Border or Mossflower)
+## Ability Scores
 - +2 Dex
 - -2 Int
 
-# Racial Proficiencies
+## Racial Proficiencies
 - acrobatics, survival
 
-# Paired Classes
+## Paired Classes
 - Border Squirrels: Fighters, Paladins
 - Mossflower Squirrels: Rangers, Bards, Paladins, Monks
 
-# Alignment tendencies
+## Alignment tendencies
 - good, neutral
 
 
-## Hedgehog 
-# Ability Scores
+# Hedgehog 
+## Ability Scores
 - +2 Con
 - -2 Dex
 
-# Racial Abilities
+## Racial Abilities
 - spike tousling (grapple)
 - club
 
-# Paired Classes
+## Paired Classes
 - All good aligned 
 
-# Alignment tendencies
+## Alignment tendencies
 - good
 
 
-## Shrews 
-# Ability Scores
+# Shrews 
+## Ability Scores
 - ????????
 - -2 Cha
 
-# Racial Abilities
+## Racial Abilities
 - performance
 - rapier
 - advantage on all roles in association with shrews
 
-# Paired Classes
+## Paired Classes
 - 
 
-# Alignment tendencies
+## Alignment tendencies
 - 
 
 
-## Otters (Sea or River) 
-# Ability Scores
+# Otters (Sea or River) 
+## Ability Scores
 - +2 to Str
 - -2 to Cha
 
-# Racial Abilities
+## Racial Abilities
 - hot root soup
 - swimming, survival
 - javalin, ranged, cutlass
 
-# Paired Classes
+## Paired Classes
 - River Otters: Ranger, Fighter, Paladin
 - Sea Otters: Fighter
 
-# Alignment tendencies
+## Alignment tendencies
 - good, neutral 
 - sea otters can be anything
 
 
-## Hares 
-# Ability Scores
+# Hares 
+## Ability Scores
 - +2 Cha
 
-# Racial Abilities
+## Racial Abilities
 - spear, pike
 
-# Paired Classes
+## Paired Classes
 - Bard, Fighter, Ranger, Barbarian
 
-# Alignment tendencies
+## Alignment tendencies
 - good, neutral
 
 
-## Bagders 
-# Ability Scores
+# Bagders 
+## Ability Scores
 - +2 Str
 - +2 Con
 - -4 Dex
 
-# Racial Abilities
+## Racial Abilities
 - Great sword, spear
 - blood rage
 
-# Paired Classes
+## Paired Classes
 - Barbarians, Paladin, Fighter, Monk
 
-# Alignment tendencies
+## Alignment tendencies
 - good
