@@ -1,10 +1,3 @@
-# Race
-## Ability Scores
-## Racial Abilities
-## Paired Classes
-## Alignment tendencies
-
-
 # Mice
 ## Ability Scores
 - each ability score +1
@@ -113,6 +106,24 @@
 
 ## Paired Classes
 - Barbarians, Paladin, Fighter, Monk
+
+## Alignment tendencies
+- good
+
+
+# Mole
+## Ability Scores
+- +2 Cha
+- +2 Wis
+- -2 Int
+- -2 Dex
+
+## Racial Abilities
+- persuasion
+- hand to hand, war hammer
+
+## Paired Classes
+- Monk, Barbarian, Fighter
 
 ## Alignment tendencies
 - good
